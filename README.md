@@ -2,7 +2,9 @@
 - 👀 I’m interested in competitive programming, data science 
 - 🌱 I’m currently learning Basic data science 
 - 📫 How to reach me? 
--             Email : n.ahasan@outlook.com and shohanfeni@gmail.com
+-             -- Email : n.ahasan@outlook.com and shohanfeni@gmail.com
+-             -- https://codeforces.com/profile/shohanfeni
+-             -- linkedin.com/in/nazmul-shohan-b64031166
 
 <!---
 Ahasan-github/Ahasan-github is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
