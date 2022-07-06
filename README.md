@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ahasan-github my real name is Nazmul Ahasan Shohan
-- 👀 I’m interested in competitive programming, data science 
+- 👀 I’m interested in competitive programming, data Analysis and Oracle Database. 
 - 🌱 I’m currently learning Basic data science 
 - 📫 How to reach me? 
 -             -- Email : n.ahasan@outlook.com and shohanfeni@gmail.com
