@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ahasan-github my real name is Nazmul Ahasan Shohan
+- 👋 Hi, I’m Nazmul Ahasan Shohan
 - 👀 I’m interested in competitive programming, data Analysis and Oracle Database. 
 - 🌱 I’m currently learning Basic data science 
 - 📫 How to reach me? 
