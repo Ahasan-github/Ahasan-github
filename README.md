@@ -2,7 +2,7 @@
 - 👀 I’m interested in competitive programming, data Analysis and Oracle Database. 
 - 🌱 I’m currently learning Basic data science 
 - 📫 How to reach me? 
--             -- Email : n.ahasan@outlook.com and shohanfeni@gmail.com
+-             -- Email : n.ahasan@outlook.com and nazmulahasan02@gmail.com
 -             -- https://codeforces.com/profile/shohanfeni
 -             -- linkedin.com/in/nazmul-shohan-b64031166
 
